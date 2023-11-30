@@ -1,6 +1,5 @@
 ﻿using System;
-using static IntensifyingC.ControlPanel;
-using static IntensifyingC.system;
+using static ControlPanel;
 
 
 //Microsoft Windows [版本 10.0.22621.2715]
